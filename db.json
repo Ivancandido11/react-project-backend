@@ -1,16 +1,375 @@
 {
-  "posts":[
+  "loggedInUser": {
+    "id": 1,
+    "name": "",
+    "password": "",
+    "points": 0
+  },
+  "lobbies": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "players": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "title": "TableTalk",
+      "rank": 1,
+      "id": 15
+    },
+    {
+      "players": [
+        "",
+        "",
+        "",
+        "KurstynStorms"
+      ],
+      "title": "ScrubsOnly",
+      "rank": 15,
+      "id": 17
+    },
+    {
+      "players": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "title": "NoLosersAllowed",
+      "rank": 9,
+      "id": 18
+    },
+    {
+      "players": [
+        "",
+        "",
+        "",
+        "dongles"
+      ],
+      "title": "RoadsSuck",
+      "rank": 1,
+      "id": 20
+    },
+    {
+      "players": [
+        "",
+        "",
+        "KurstynStorms",
+        "KurstynStorms"
+      ],
+      "title": "OWS God Squad",
+      "rank": 20,
+      "id": 22
+    },
+    {
+      "players": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "title": "More Rooms",
+      "rank": 11,
+      "id": 23
+    },
+    {
+      "players": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "title": "Even More",
+      "rank": 12,
+      "id": 24
+    },
+    {
+      "players": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "title": "Room 10",
+      "rank": 2,
+      "id": 28
+    },
+    {
+      "players": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "title": "Winterfell",
+      "rank": 30,
+      "id": 30
+    },
+    {
+      "players": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "title": "King's Landing",
+      "rank": 12,
+      "id": 31
+    },
+    {
+      "players": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "title": "Suits",
+      "rank": 15,
+      "id": 33
+    },
+    {
+      "players": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "title": "The Pit ",
+      "rank": 10,
+      "id": 34
+    },
+    {
+      "players": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "title": "The Pit 2",
+      "rank": 11,
+      "id": 35
+    },
+    {
+      "players": [
+        "",
+        "",
+        "",
+        "ZasD11"
+      ],
+      "title": "Rome",
+      "rank": 10,
+      "id": 36
+    },
+    {
+      "players": [
+        "",
+        "",
+        "",
+        "ZasD11"
+      ],
+      "title": "Greece",
+      "rank": 10,
+      "id": 37
+    },
+    {
+      "players": [
+        "",
+        "",
+        "",
+        "ZasD11"
+      ],
+      "title": "Italia",
+      "rank": 12,
+      "id": 38
+    },
+    {
+      "players": [
+        "",
+        "",
+        "",
+        "ZasD11"
+      ],
+      "title": "Babylon",
+      "rank": 14,
+      "id": 39
+    },
+    {
+      "players": [
+        "",
+        "",
+        "",
+        "ZasD11"
+      ],
+      "title": "Bonus",
+      "rank": 13,
+      "id": 40
+    },
+    {
+      "players": [
+        "",
+        "",
+        "",
+        "ZasD11"
+      ],
+      "title": "Home",
+      "rank": 22,
+      "id": 41
+    },
+    {
+      "players": [
+        "",
+        "",
+        "",
+        "ZasD11"
+      ],
+      "title": "France",
+      "rank": 23,
+      "id": 42
+    },
+    {
+      "players": [
+        "",
+        "",
+        "",
+        "ZasD11"
+      ],
+      "title": "Road Noobs",
+      "rank": 1,
+      "id": 43
     }
   ],
-  "comments" : [
+  "users": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 1,
+      "name": "ZasD11",
+      "password": "ivan1",
+      "points": 250
+    },
+    {
+      "id": 2,
+      "name": "Ivan",
+      "password": "ivan1",
+      "points": 60
+    },
+    {
+      "name": "Coopa",
+      "password": "poopyface",
+      "points": 0,
+      "id": 3
+    },
+    {
+      "name": "KurstynStorms",
+      "password": "poopyface",
+      "points": 30,
+      "id": 4
+    },
+    {
+      "name": "RudeChowder",
+      "password": "password1",
+      "points": 0,
+      "id": 5
+    },
+    {
+      "name": "robgentile",
+      "password": "123456",
+      "points": 0,
+      "id": 6
+    },
+    {
+      "name": "ewinne",
+      "password": "ivan",
+      "points": 0,
+      "id": 7
+    },
+    {
+      "name": "CodingJesus",
+      "password": "1234",
+      "points": 300,
+      "id": 8
+    },
+    {
+      "name": "RobbingKnights",
+      "password": "12345",
+      "points": 450,
+      "id": 9
+    },
+    {
+      "name": "Sup",
+      "password": "1234",
+      "points": 690,
+      "id": 10
+    },
+    {
+      "name": "loser",
+      "password": "12122",
+      "points": 0,
+      "id": 11
+    },
+    {
+      "name": "Osama Bin laden",
+      "password": "123",
+      "points": 10,
+      "id": 12
+    },
+    {
+      "name": "kyleisdecent",
+      "password": "ivanishot",
+      "points": 10,
+      "id": 13
+    },
+    {
+      "name": "Gordo",
+      "password": "milkman",
+      "points": 10,
+      "id": 14
+    },
+    {
+      "name": "dion.theroulde",
+      "password": "6969",
+      "points": 10,
+      "id": 15
+    },
+    {
+      "name": "IWillBeatIvan",
+      "password": "Iwin",
+      "points": 20,
+      "id": 16
+    },
+    {
+      "name": "bigJ4200",
+      "password": "password",
+      "points": 100,
+      "id": 17
+    },
+    {
+      "name": "Sebdude",
+      "password": "1234",
+      "points": 30,
+      "id": 18
+    },
+    {
+      "name": "Moca",
+      "password": "Mocacola@328",
+      "points": 20,
+      "id": 19
+    },
+    {
+      "name": "OsamaBinLaden",
+      "password": "yo",
+      "points": 0,
+      "id": 20
+    },
+    {
+      "name": "yoloboi",
+      "password": "35344",
+      "points": 0,
+      "id": 21
+    },
+    {
+      "name": "ayyyyooo",
+      "password": "323232",
+      "points": 0,
+      "id": 22
     }
   ]
 }
